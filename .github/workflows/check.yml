@@ -1,0 +1,11 @@
+name: Check
+on:
+  push:
+  pull_request:
+jobs:
+  readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: test -s README.md
+      - run: grep -q "Awesome OpenAI-Compatible" README.md

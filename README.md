@@ -21,6 +21,7 @@ OpenAI-compatible APIs are becoming the common interface for model access. The h
 - [LiteLLM](https://github.com/BerriAI/litellm) - Proxy and SDK for calling many LLM providers with an OpenAI-compatible interface.
 - [OpenRouter](https://openrouter.ai) - Unified API for accessing multiple models through an OpenAI-compatible style interface.
 - [Portkey](https://github.com/Portkey-AI/gateway) - AI gateway focused on routing, observability, and reliability.
+- [Prism API](https://github.com/go165/prism-api-promo) - Independent sub2api-based gateway for overseas developers, with OpenAI-compatible routes, low-cost GPT-5.5 access, quota controls, and crypto-friendly recharge/voucher options.
 
 ## Testing and Benchmarking
 

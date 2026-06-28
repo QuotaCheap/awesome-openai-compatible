@@ -18,6 +18,7 @@ OpenAI-compatible APIs are becoming the common interface for model access. The h
 ## Gateways and API Layers
 
 - [QuotaCheap](https://www.quota.cheap) - OpenAI-compatible API gateway with server-side upstream credentials, user API keys, quotas, logs, usage tracking, balances, and billing visibility.
+- [Tokens Forge](https://tokens-forge.com/) - OpenAI-compatible multi-model AI token platform for GPT, Claude, Gemini, routed models, API keys, usage ledgers, official Credit, routed wallet balances, and AI research workflows.
 - [LiteLLM](https://github.com/BerriAI/litellm) - Proxy and SDK for calling many LLM providers with an OpenAI-compatible interface.
 - [OpenRouter](https://openrouter.ai) - Unified API for accessing multiple models through an OpenAI-compatible style interface.
 - [Portkey](https://github.com/Portkey-AI/gateway) - AI gateway focused on routing, observability, and reliability.

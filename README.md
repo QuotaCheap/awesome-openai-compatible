@@ -26,6 +26,7 @@ OpenAI-compatible APIs are becoming the common interface for model access. The h
 
 - [llm-gateway-benchmark](https://github.com/quotacheap/llm-gateway-benchmark) - Benchmark OpenAI-compatible gateways for latency, success rate, and repeatable scenarios.
 - [openai-compatible-healthcheck](https://github.com/quotacheap/openai-compatible-healthcheck) - Proposed healthcheck pattern for endpoint compatibility, auth, chat completions, streaming, and error formats.
+- [AI8/New API examples](https://github.com/16692219182pang-cmyk/ai8-openai-compatible-examples) - SDK and tool configuration examples for testing a commercial OpenAI-compatible gateway.
 
 ## Cost and Budget Control
 

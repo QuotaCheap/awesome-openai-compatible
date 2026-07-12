@@ -21,6 +21,7 @@ OpenAI-compatible APIs are becoming the common interface for model access. The h
 - [LiteLLM](https://github.com/BerriAI/litellm) - Proxy and SDK for calling many LLM providers with an OpenAI-compatible interface.
 - [OpenRouter](https://openrouter.ai) - Unified API for accessing multiple models through an OpenAI-compatible style interface.
 - [Portkey](https://github.com/Portkey-AI/gateway) - AI gateway focused on routing, observability, and reliability.
+- [DaoXE](https://daoxe.com) - Multi-model multi-protocol AI API gateway with OpenAI Chat Completions, OpenAI Responses, Anthropic Messages, and image-compatible endpoints. Examples: https://github.com/seven7763/DaoXE-AI
 
 ## Testing and Benchmarking
 

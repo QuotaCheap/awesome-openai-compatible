@@ -19,6 +19,7 @@ OpenAI-compatible APIs are becoming the common interface for model access. The h
 
 - [QuotaCheap](https://www.quota.cheap) - OpenAI-compatible API gateway with server-side upstream credentials, user API keys, quotas, logs, usage tracking, balances, and billing visibility.
 - [LiteLLM](https://github.com/BerriAI/litellm) - Proxy and SDK for calling many LLM providers with an OpenAI-compatible interface.
+- [SandBase CLI](https://github.com/sandbaseai/cli) - Provider-agnostic CLI and local MCP bridge connecting 25 AI clients to 2,000+ models and APIs.
 - [OpenRouter](https://openrouter.ai) - Unified API for accessing multiple models through an OpenAI-compatible style interface.
 - [Portkey](https://github.com/Portkey-AI/gateway) - AI gateway focused on routing, observability, and reliability.
 

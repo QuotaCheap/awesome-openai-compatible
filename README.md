@@ -21,6 +21,7 @@ OpenAI-compatible APIs are becoming the common interface for model access. The h
 - [LiteLLM](https://github.com/BerriAI/litellm) - Proxy and SDK for calling many LLM providers with an OpenAI-compatible interface.
 - [OpenRouter](https://openrouter.ai) - Unified API for accessing multiple models through an OpenAI-compatible style interface.
 - [Portkey](https://github.com/Portkey-AI/gateway) - AI gateway focused on routing, observability, and reliability.
+- [XiuRouter](https://router.xiu.ai/) - Hosted multi-model API supporting OpenAI Responses and Chat Completions, Anthropic Messages, and Gemini GenerateContent, with scoped API keys, usage-based pricing, and request-level usage and cost records.
 
 ## Testing and Benchmarking
 

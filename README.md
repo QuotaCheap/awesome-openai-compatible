@@ -22,6 +22,8 @@ OpenAI-compatible APIs are becoming the common interface for model access. The h
 - [OpenRouter](https://openrouter.ai) - Unified API for accessing multiple models through an OpenAI-compatible style interface.
 - [Portkey](https://github.com/Portkey-AI/gateway) - AI gateway focused on routing, observability, and reliability.
 
+- [Lanbuff API (蓝博API)](https://lanbuff.app) - OpenAI-compatible relay (new-api fork) aggregating 400+ models; exposes a public per-model pricing JSON at `/api/pricing`, useful for automated cost comparison and routing decisions.
+
 ## Testing and Benchmarking
 
 - [llm-gateway-benchmark](https://github.com/quotacheap/llm-gateway-benchmark) - Benchmark OpenAI-compatible gateways for latency, success rate, and repeatable scenarios.

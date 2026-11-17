@@ -76,6 +76,7 @@ print(response.choices[0].message.content)
 - [Ollama](https://github.com/ollama/ollama) - Local model runner with OpenAI-compatible endpoints for some workflows.
 - [LocalAI](https://github.com/mudler/LocalAI) - Self-hosted OpenAI-compatible API for local models.
 - [vLLM](https://github.com/vllm-project/vllm) - High-throughput inference server with OpenAI-compatible server support.
+- [Off Grid AI](https://github.com/off-grid-ai/OGAD) - Desktop app and headless gateway serving local chat, vision, image, speech and embedding models on one keyless OpenAI-compatible API.
 
 ## Agent Workflows
 

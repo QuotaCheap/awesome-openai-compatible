@@ -19,6 +19,7 @@ OpenAI-compatible APIs are becoming the common interface for model access. The h
 
 - [QuotaCheap](https://www.quota.cheap) - OpenAI-compatible API gateway with server-side upstream credentials, user API keys, quotas, logs, usage tracking, balances, and billing visibility.
 - [LiteLLM](https://github.com/BerriAI/litellm) - Proxy and SDK for calling many LLM providers with an OpenAI-compatible interface.
+- [Off Grid AI Boost](https://getoffgridai.co/boost/) - OpenAI-compatible API for open-weight models such as Qwen 3.8 and DeepSeek V4.1 Flash on one key; prompts are never stored or trained on.
 - [OpenRouter](https://openrouter.ai) - Unified API for accessing multiple models through an OpenAI-compatible style interface.
 - [Portkey](https://github.com/Portkey-AI/gateway) - AI gateway focused on routing, observability, and reliability.
 

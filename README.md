@@ -21,6 +21,7 @@ OpenAI-compatible APIs are becoming the common interface for model access. The h
 - [LiteLLM](https://github.com/BerriAI/litellm) - Proxy and SDK for calling many LLM providers with an OpenAI-compatible interface.
 - [OpenRouter](https://openrouter.ai) - Unified API for accessing multiple models through an OpenAI-compatible style interface.
 - [Portkey](https://github.com/Portkey-AI/gateway) - AI gateway focused on routing, observability, and reliability.
+- [Prune](https://withprune.com) - OpenAI-compatible control plane. Vault the provider key, semantic cache, cheaper-model routing, Shield, signed receipts. Guides for Vercel AI SDK, LangChain, Cursor, n8n.
 
 ## Testing and Benchmarking
 

@@ -21,6 +21,7 @@ OpenAI-compatible APIs are becoming the common interface for model access. The h
 - [LiteLLM](https://github.com/BerriAI/litellm) - Proxy and SDK for calling many LLM providers with an OpenAI-compatible interface.
 - [OpenRouter](https://openrouter.ai) - Unified API for accessing multiple models through an OpenAI-compatible style interface.
 - [Portkey](https://github.com/Portkey-AI/gateway) - AI gateway focused on routing, observability, and reliability.
+- [COCO API](https://cocoapi.top/) - OpenAI-compatible unified API gateway that routes to 107 models from 25 vendors through one endpoint, with per-token billing and balance/usage tracking in the New API console.
 
 ## Testing and Benchmarking
 
